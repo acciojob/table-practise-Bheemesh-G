@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+.student{
+	background-color : yellow;
+	border : 1px solid black;
+}
+
+.student th {
+	border : 1px solid black;
+}
+
+.student td {
+	border : 1px solid black;
+}
+
